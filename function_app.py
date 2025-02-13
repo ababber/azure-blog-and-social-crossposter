@@ -1,8 +1,7 @@
 import azure.functions as func
-
+import logging
 # import datetime
 # import json
-import logging
 
 app = func.FunctionApp()
 
